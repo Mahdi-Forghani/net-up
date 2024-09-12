@@ -1,0 +1,14 @@
+D:\projects\net-up\1-advanced-csharp\advance-csharp\bin\Debug\net8.0\advance-csharp.exe
+D:\projects\net-up\1-advanced-csharp\advance-csharp\bin\Debug\net8.0\advance-csharp.deps.json
+D:\projects\net-up\1-advanced-csharp\advance-csharp\bin\Debug\net8.0\advance-csharp.runtimeconfig.json
+D:\projects\net-up\1-advanced-csharp\advance-csharp\bin\Debug\net8.0\advance-csharp.dll
+D:\projects\net-up\1-advanced-csharp\advance-csharp\bin\Debug\net8.0\advance-csharp.pdb
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.AssemblyInfoInputs.cache
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.AssemblyInfo.cs
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.csproj.CoreCompileInputs.cache
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.dll
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\refint\advance-csharp.dll
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.pdb
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\advance-csharp.genruntimeconfig.cache
+D:\projects\net-up\1-advanced-csharp\advance-csharp\obj\Debug\net8.0\ref\advance-csharp.dll
